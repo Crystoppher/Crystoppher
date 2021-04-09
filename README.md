@@ -1,4 +1,9 @@
 ### Hi there 👋
+# Hi, I'm Crystoppher! :wink:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crystoppher-
+<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
+
 
 <!--
 **Crystoppher/Crystoppher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
