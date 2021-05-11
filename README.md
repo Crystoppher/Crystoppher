@@ -7,6 +7,7 @@
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
 
 # Em edição ...
+Neste repositório você irá encontrar algumas das atividades que eu venho desenvolvendo ao longo da minha trajetória acadêmica. Aqui você encontrara projetos utilizando Arduino, exercícios com linguagem C e alguns protótipo de páginas web.
 
 
 <!--
