@@ -9,7 +9,7 @@
 # Em edição ...
 Neste repositório você irá encontrar algumas das atividades que eu venho desenvolvendo ao longo da minha trajetória acadêmica. Aqui você encontrara projetos utilizando Arduino, exercícios com linguagem C e alguns protótipo de páginas web.
 
-
+# Novas Atualizações...
 <!--
 **Crystoppher/Crystoppher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
