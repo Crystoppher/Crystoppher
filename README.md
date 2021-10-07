@@ -1,26 +1,15 @@
-### Hi there 👋
-# Hi, I'm Crystoppher! :wink:
+## Bem-vindo 😉 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crystoppher-sim%C3%B5es-1aa4401a4/)](https://www.linkedin.com/in/crystoppher-sim%C3%B5es-1aa4401a4/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://)](https://)
+<div align="center">
+  <a href="https://github.com/Crystoppher/Crystoppher">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crystoppher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!--
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystoppher&layout=compact&langs_count=7&theme=dracula"/>
+-->
+</div>
+  
 
-<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb) -->
-
-# Em edição ...
+## Em edição ...
 Neste repositório você irá encontrar algumas das atividades que eu venho desenvolvendo ao longo da minha trajetória acadêmica. Aqui você encontrara projetos utilizando Arduino, exercícios com linguagem C e alguns protótipo de páginas web.
 
-# Novas Atualizações...
-<!--
-**Crystoppher/Crystoppher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
