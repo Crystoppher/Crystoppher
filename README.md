@@ -1,5 +1,4 @@
 ## Bem-vindo 😉 👋
-## Hello & Welcome Guys! 😉 👋
 
 <!--
 <div align="center">
@@ -7,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crystoppher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystoppher&layout=compact&langs_count=7&theme=dracula"/> -->
 </div> 
---> 
+
 
 ## Timeline em edição ...
 Seja bem-vindo ao meu repositório na plataforma GITHUB. Neste espaço você irá encontrar alguns projetos de autoria própria que venho desenvolvendo ao longo da minha formação na área de tecnologia da informação. 
