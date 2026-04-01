@@ -1,8 +1,10 @@
 # Olá, eu sou o Crystoppher! 👋
 Desenvolvedor Full Stack | Apaixonado por Soluções Criativas 💻 ❤️
 
-<br>
-<br>
+###
+<img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Languages and Tools:
 
